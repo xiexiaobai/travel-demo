@@ -3,12 +3,6 @@
 
 项目整体总结与记录。欢迎 `Star` 和 `Fork`。
 
-## 效果预览
-扫描二维码：
-
-![](https://img-1257191344.cos.ap-chengdu.myqcloud.com/%E6%97%85%E6%B8%B8%E7%BD%91%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
-
-![](https://upload-images.jianshu.io/upload_images/12904618-501ca21cf363890e.gif?imageMogr2/auto-orient/strip)
 
 ## 项目涉及到技术栈：
 - Vue：Vue、Vue-router、Vuex、Vue-cli
